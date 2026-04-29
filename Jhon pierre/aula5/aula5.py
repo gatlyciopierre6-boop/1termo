@@ -115,10 +115,10 @@
 #o padrão de qualidade aceita apenas peças com extamente 50.0 ou mais.
 #use um for para ler a lista e pra cada peça diga se ela está "aprovado" ou rejeitada".
 
-medidas = [50.1, 49.8, 52.2, 50.0, 48.5]
+# medidas = [50.1, 49.8, 52.2, 50.0, 48.5]
 
-for medida in medidas:
-    if medida >= 50.0:
-        print(f"{medida} - aprovado")
-    else:
-        print(f"{medida} - rejeitada")
+# for medida in medidas:
+#     if medida >= 50.0:
+#         print(f"{medida} - aprovado")
+#     else:
+#         print(f"{medida} - rejeitada")
